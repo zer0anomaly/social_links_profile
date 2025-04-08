@@ -1,0 +1,128 @@
+.body {
+	background-color: hsl(0, 0%, 8%);
+
+}
+.firstdiv {
+	width: 550px;
+	height: 900px;
+	background-color: hsl(0, 0%, 12%);
+	position: absolute;
+ 	top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    text-align: center;
+    font-size: 14px;
+    padding: 50px;
+}
+.seconddiv {
+	width: 550;
+	height: 250;
+	margin: 50px;
+}
+.avatar_image {
+	width: 140px;
+	height: 140px;
+	border-radius: 100px;
+}
+.name {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 40px;
+  margin: -20px;
+}
+.location {
+	color: hsl(75, 94%, 57%);
+	font-size: 23px;
+	border: -10px;
+	font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+}
+.job {
+	font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    padding: 15px;
+    font-size: 22px;
+}
+.githubdiv {
+	width: 550px;
+	height: 70px;
+	text-align: center;
+   	background-color: hsl(0, 0%, 20%);
+   	border-radius: 15px;
+   	font-family: "Inter", sans-serif;
+    font-weight: 600;
+}
+.frontenddiv {
+	width: 550px;
+	height: 70px;
+	text-align: center;
+   	background-color: hsl(0, 0%, 20%);
+   	border-radius: 15px;
+   	font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+}
+.linkedindiv {
+	width: 550px;
+	height: 70px;
+	text-align: center;
+   	background-color: hsl(0, 0%, 20%);
+   	border-radius: 15px;
+   	font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+}
+.linkedindiv {
+	width: 550px;
+	height: 70px;
+	text-align: center;
+   	background-color: hsl(0, 0%, 20%);
+   	border-radius: 15px;
+   	font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+}
+.twitterdiv {
+	width: 550px;
+	height: 70px;
+	text-align: center;
+   	background-color: hsl(0, 0%, 20%);
+   	border-radius: 15px;
+   	font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+}
+.instagramdiv {
+	width: 550px;
+	height: 70px;
+	text-align: center;
+   	background-color: hsl(0, 0%, 20%);
+   	border-radius: 15px;
+   	font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+}
+.github {
+	padding: 20px;
+}
+.frontend {
+	padding: 20px;
+	
+}
+.linkedin {
+	padding: 20px;
+	
+}
+.twitter {
+	padding: 20px;
+	
+}
+.instagram {
+	padding: 20px;
+	
+}
